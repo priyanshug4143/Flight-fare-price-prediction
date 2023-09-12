@@ -6,6 +6,11 @@ Travelling through flights has become an integral part of today’s lifestyle as
 # Goal
 
 The main goal is to predict the fares of the flights based on different factors available in the provided dataset.
+# Demo
+![WebApp ](https://github.com/priyanshug4143/Flight-fare-price-prediction/assets/110805348/4e092db2-72b3-45f0-bde1-201ca635c6b7)
+
+
+
 
 #Approach:
 

@@ -12,4 +12,4 @@ The main goal is to predict the fares of the flights based on different factors 
 The classical machine learning tasks like Data Exploration, Data Cleaning, Feature Engineering, Model Building and Model Testing. Try out different machine learning algorithms that’s best fit for the above case.
 
 # Performance
-90% R2_Score
+80% R2_Score
